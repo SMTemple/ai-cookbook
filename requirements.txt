@@ -1,0 +1,13 @@
+docling
+httpx
+instructor
+ipykernel
+lancedb
+mcp[cli]==1.6.0
+openai==1.75.0
+openai-agents
+pydantic
+python-dotenv
+requests
+streamlit
+tiktoken
